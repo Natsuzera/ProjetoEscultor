@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\escultor.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\escultor.dir/objects.a @CMakeFiles\escultor.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\escultor.dir/objects.a -Wl,--no-whole-archive -o escultor.exe -Wl,--out-implib,libescultor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\escultor.dir\linkLibs.rsp

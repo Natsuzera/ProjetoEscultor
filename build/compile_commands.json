@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/PA/projetoEscutor/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\escultor.dir\\main.cpp.obj -c F:\\PA\\projetoEscutor\\main.cpp",
+  "file": "F:/PA/projetoEscutor/main.cpp",
+  "output": "CMakeFiles/escultor.dir/main.cpp.obj"
+},
+{
+  "directory": "F:/PA/projetoEscutor/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\escultor.dir\\Sculptor.cpp.obj -c F:\\PA\\projetoEscutor\\Sculptor.cpp",
+  "file": "F:/PA/projetoEscutor/Sculptor.cpp",
+  "output": "CMakeFiles/escultor.dir/Sculptor.cpp.obj"
+}
+]

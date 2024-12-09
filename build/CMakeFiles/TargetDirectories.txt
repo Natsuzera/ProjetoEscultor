@@ -1,0 +1,3 @@
+F:/PA/projetoEscutor/build/CMakeFiles/escultor.dir
+F:/PA/projetoEscutor/build/CMakeFiles/edit_cache.dir
+F:/PA/projetoEscutor/build/CMakeFiles/rebuild_cache.dir
